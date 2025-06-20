@@ -69,3 +69,9 @@ After installing the requirements clone this repository and you can use `python3
   <p>DontEatMyContent is a tweak developed by <a href="https://github.com/therealFoxster">therealFoxster</a> that prevents the Notch/Dynamic Island from munching on 2:1 video content in the iOS YouTube app.</p>
   <p>Source code and additional information are available <a href="https://github.com/therealFoxster/DontEatMyContent">in therealFoxster's GitHub repository</a>.</p>
 </details>
+
+<details>
+  <summary>iSponsorBlock</summary>
+  <p>iSponsorBlock is a tweak developed by <a href="https://github.com/Galactic-Dev">Galactic-Dev</a> that lets you block sponsors and other segments in videos.</p>
+  <p>Source code and additional information are available <a href="https://github.com/Galactic-Dev/iSponsorBlock">in Galactic-Dev's GitHub repository</a>.</p>
+</details>
