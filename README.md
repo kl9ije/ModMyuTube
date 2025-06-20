@@ -38,7 +38,7 @@ python3 -m pipx ensurepath
 pipx install cyan
 pip install requests
 ```
-After installing the requirements you can use `python3 modmyutube.py` to run the script.
+After installing the requirements clone this repository and you can use `python3 modmyutube.py` to run the script.
 ## Included mods
 <details>
   <summary>YouPiP</summary>
