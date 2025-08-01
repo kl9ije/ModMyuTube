@@ -221,7 +221,7 @@ def main():
 
     print()
     logger.info("For more info on versions see https://github.com/dayanch96/YTLite/tags")
-    tweak_version = ask_str("Tweak version", "5.2b1")
+    tweak_version = ask_str("Tweak version", "5.2b2")
     display_name = ask_str("App name", "YouTube")
     bundle_id = ask_str("Bundle ID", "com.google.ios.youtube")
     print()
